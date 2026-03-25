@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>DefenceShield – Facial Recognition Security System</title>
+  <meta name="description" content="AI-powered facial recognition for secure entry control in defence zones." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Share+Tech+Mono&family=Rajdhani:wght@400;600;700&family=Orbitron:wght@400;700;900&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="/static/styles.css" />
+</head>
+<body>
+
+  <!-- ── Scanline overlay ─────────────────────────────────────────────── -->
+  <div class="scanlines" aria-hidden="true"></div>
+
+  <!-- ── Top header bar ───────────────────────────────────────────────── -->
+  <header class="topbar">
+    <div class="topbar-left">
+      <span class="shield-icon">🛡</span>
+      <span class="topbar-title">DEFENCESHIELD <span class="version">v2.6</span></span>
+    </div>
+    <div class="topbar-center">
+      <span class="classification">TOP SECRET · LEVEL 5 ZONE</span>
+    </div>
+    <div class="topbar-right">
+      <span class="clock" id="clockDisplay">--:--:--</span>
+      <span class="status-dot" id="systemStatus" title="System Status">●</span>
+    </div>
+  </header>
+
+  <!-- ── Main layout ──────────────────────────────────────────────────── -->
+  <main class="layout">
+
+    <!-- ─── Left: Camera Feed ──────────────────── -->
+    <section class="panel camera-panel">
+      <div class="panel-header">
+        <span class="panel-title">📷 LIVE FEED</span>
+        <span class="badge badge-live" id="feedBadge">LIVE</span>
+      </div>
+
+      <div class="camera-container">
+        <video id="videoElement" autoplay muted playsinline></video>
+        <canvas id="overlayCanvas"></canvas>
+        <!-- Corner decorations -->
+        <div class="corner tl"></div>
+        <div class="corner tr"></div>
+        <div class="corner bl"></div>
+        <div class="corner br"></div>
+      </div>
+
+      <div class="camera-controls">
+        <button id="btnStartCamera" class="btn btn-primary">⏵ START CAMERA</button>
+        <button id="btnCapture"     class="btn btn-accent"   disabled>⊙ SCAN FRAME</button>
+        <button id="btnAuto"        class="btn btn-secondary" disabled>⟳ AUTO (2s)</button>
+      </div>
+    </section>
+
+    <!-- ─── Right: Identity Panel ──────────────── -->
+    <aside class="panel info-panel">
+
+      <!-- Identity card -->
+      <div class="panel-header">
+        <span class="panel-title">🪪 IDENTITY</span>
+      </div>
+
+      <div class="id-card" id="idCard">
+        <div class="id-avatar">
+          <div class="avatar-placeholder" id="avatarPlaceholder">?</div>
+        </div>
+        <div class="id-fields">
+          <div class="id-row">
+            <span class="id-label">NAME</span>
+            <span class="id-value" id="idName">—</span>
+          </div>
+          <div class="id-row">
+            <span class="id-label">ROLE</span>
+            <span class="id-value" id="idRole">—</span>
+          </div>
+          <div class="id-row">
+            <span class="id-label">DEPT</span>
+            <span class="id-value" id="idDept">—</span>
+          </div>
+          <div class="id-row">
+            <span class="id-label">CLEARANCE</span>
+            <span class="id-value" id="idClearance">—</span>
+          </div>
+          <div class="id-row">
+            <span class="id-label">CONFIDENCE</span>
+            <span class="id-value" id="idConfidence">—</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- Access Status banner -->
+      <div class="access-banner" id="accessBanner">
+        <div class="access-icon" id="accessIcon">⬡</div>
+        <div class="access-text" id="accessText">AWAITING SCAN</div>
+      </div>
+
+      <!-- Message line -->
+      <div class="access-message" id="accessMessage">System ready. Begin facial scan to authenticate.</div>
+
+      <!-- Clearance level bar -->
+      <div class="clearance-bar-container">
+        <div class="clearance-label">CLEARANCE LEVEL</div>
+        <div class="clearance-bar-track">
+          <div class="clearance-bar-fill" id="clearanceFill" style="width:0%"></div>
+        </div>
+        <div class="clearance-levels">
+          <span>L1</span><span>L2</span><span>L3</span><span>L4</span><span>L5</span>
+        </div>
+      </div>
+
+    </aside>
+  </main>
+
+  <!-- ── Entry Log Table ───────────────────────────────────────────────── -->
+  <section class="log-section">
+    <div class="panel">
+      <div class="panel-header">
+        <span class="panel-title">📋 ENTRY LOG</span>
+        <button id="btnRefreshLogs" class="btn btn-secondary btn-sm">↺ REFRESH</button>
+      </div>
+      <div class="table-wrapper">
+        <table class="log-table" id="logTable">
+          <thead>
+            <tr>
+              <th>#</th>
+              <th>NAME</th>
+              <th>ROLE</th>
+              <th>STATUS</th>
+              <th>TIMESTAMP</th>
+            </tr>
+          </thead>
+          <tbody id="logBody">
+            <tr><td colspan="5" class="no-data">No entries yet.</td></tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </section>
+
+  <!-- ── Alert Toast ───────────────────────────────────────────────────── -->
+  <div class="alert-toast" id="alertToast" aria-live="assertive">
+    <span class="alert-icon">⚠</span>
+    <span id="alertMsg">UNAUTHORIZED FACE DETECTED</span>
+  </div>
+
+  <script src="/static/main.js"></script>
+</body>
+</html>
