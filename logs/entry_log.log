@@ -87,3 +87,404 @@
 [2026-03-25 20:42:59] [ERROR] ENTRY | name='UNKNOWN'                      role=None         status=UNAUTHORIZED
 [2026-03-25 20:43:01] [INFO] ENTRY | name='Col. GurnoorSingh'            role=Officer      status=ALLOWED
 [2026-03-25 20:43:03] [INFO] ENTRY | name='Col. GurnoorSingh'            role=Officer      status=ALLOWED
+[2026-03-25 21:01:40] [INFO] ENTRY | name='Col. GurnoorSingh'            role=Officer      status=ALLOWED
+[2026-03-25 21:01:45] [INFO] ENTRY | name='Col. GurnoorSingh'            role=Officer      status=ALLOWED
+[2026-03-25 21:01:47] [INFO] ENTRY | name='Col. GurnoorSingh'            role=Officer      status=ALLOWED
+[2026-03-25 21:01:49] [INFO] ENTRY | name='Col. GurnoorSingh'            role=Officer      status=ALLOWED
+[2026-03-25 21:01:51] [INFO] ENTRY | name='Col. GurnoorSingh'            role=Officer      status=ALLOWED
+[2026-03-25 21:01:53] [INFO] ENTRY | name='Col. GurnoorSingh'            role=Officer      status=ALLOWED
+[2026-03-25 21:02:11] [CRITICAL] 
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+  ⚠️  SECURITY ALERT – UNAUTHORIZED FACE DETECTED
+  Name     : UNKNOWN
+  Timestamp: 2026-03-25 21:02:11
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+[2026-03-25 21:02:11] [ERROR] ENTRY | name='UNKNOWN'                      role=None         status=UNAUTHORIZED
+[2026-03-25 21:02:20] [INFO] ENTRY | name='Col. GurnoorSingh'            role=Officer      status=ALLOWED
+[2026-03-25 21:02:25] [CRITICAL] 
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+  ⚠️  SECURITY ALERT – UNAUTHORIZED FACE DETECTED
+  Name     : UNKNOWN
+  Timestamp: 2026-03-25 21:02:25
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+[2026-03-25 21:02:25] [ERROR] ENTRY | name='UNKNOWN'                      role=None         status=UNAUTHORIZED
+[2026-03-25 21:02:27] [CRITICAL] 
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+  ⚠️  SECURITY ALERT – UNAUTHORIZED FACE DETECTED
+  Name     : UNKNOWN
+  Timestamp: 2026-03-25 21:02:27
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+[2026-03-25 21:02:27] [ERROR] ENTRY | name='UNKNOWN'                      role=None         status=UNAUTHORIZED
+[2026-03-25 21:02:29] [CRITICAL] 
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+  ⚠️  SECURITY ALERT – UNAUTHORIZED FACE DETECTED
+  Name     : UNKNOWN
+  Timestamp: 2026-03-25 21:02:29
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+[2026-03-25 21:02:29] [ERROR] ENTRY | name='UNKNOWN'                      role=None         status=UNAUTHORIZED
+[2026-03-25 21:02:31] [CRITICAL] 
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+  ⚠️  SECURITY ALERT – UNAUTHORIZED FACE DETECTED
+  Name     : UNKNOWN
+  Timestamp: 2026-03-25 21:02:31
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+[2026-03-25 21:02:31] [ERROR] ENTRY | name='UNKNOWN'                      role=None         status=UNAUTHORIZED
+[2026-03-25 21:02:33] [CRITICAL] 
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+  ⚠️  SECURITY ALERT – UNAUTHORIZED FACE DETECTED
+  Name     : UNKNOWN
+  Timestamp: 2026-03-25 21:02:33
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+[2026-03-25 21:02:33] [ERROR] ENTRY | name='UNKNOWN'                      role=None         status=UNAUTHORIZED
+[2026-03-25 21:02:35] [CRITICAL] 
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+  ⚠️  SECURITY ALERT – UNAUTHORIZED FACE DETECTED
+  Name     : UNKNOWN
+  Timestamp: 2026-03-25 21:02:35
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+[2026-03-25 21:02:35] [ERROR] ENTRY | name='UNKNOWN'                      role=None         status=UNAUTHORIZED
+[2026-03-25 21:02:37] [CRITICAL] 
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+  ⚠️  SECURITY ALERT – UNAUTHORIZED FACE DETECTED
+  Name     : UNKNOWN
+  Timestamp: 2026-03-25 21:02:37
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+[2026-03-25 21:02:37] [ERROR] ENTRY | name='UNKNOWN'                      role=None         status=UNAUTHORIZED
+[2026-03-25 21:02:39] [INFO] ENTRY | name='Col. GurnoorSingh'            role=Officer      status=ALLOWED
+[2026-03-29 17:56:37] [CRITICAL] 
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+  ⚠️  SECURITY ALERT – UNAUTHORIZED FACE DETECTED
+  Name     : UNKNOWN
+  Timestamp: 2026-03-29 17:56:37
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+[2026-03-29 17:56:37] [ERROR] ENTRY | name='UNKNOWN'                      role=None         status=UNAUTHORIZED
+[2026-03-29 17:56:44] [CRITICAL] 
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+  ⚠️  SECURITY ALERT – UNAUTHORIZED FACE DETECTED
+  Name     : UNKNOWN
+  Timestamp: 2026-03-29 17:56:44
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+[2026-03-29 17:56:44] [ERROR] ENTRY | name='UNKNOWN'                      role=None         status=UNAUTHORIZED
+[2026-03-29 17:56:50] [CRITICAL] 
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+  ⚠️  SECURITY ALERT – UNAUTHORIZED FACE DETECTED
+  Name     : UNKNOWN
+  Timestamp: 2026-03-29 17:56:50
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+[2026-03-29 17:56:50] [ERROR] ENTRY | name='UNKNOWN'                      role=None         status=UNAUTHORIZED
+[2026-03-29 17:56:54] [CRITICAL] 
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+  ⚠️  SECURITY ALERT – UNAUTHORIZED FACE DETECTED
+  Name     : UNKNOWN
+  Timestamp: 2026-03-29 17:56:54
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+[2026-03-29 17:56:54] [ERROR] ENTRY | name='UNKNOWN'                      role=None         status=UNAUTHORIZED
+[2026-03-29 17:57:03] [CRITICAL] 
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+  ⚠️  SECURITY ALERT – UNAUTHORIZED FACE DETECTED
+  Name     : UNKNOWN
+  Timestamp: 2026-03-29 17:57:03
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+[2026-03-29 17:57:03] [ERROR] ENTRY | name='UNKNOWN'                      role=None         status=UNAUTHORIZED
+[2026-03-29 17:57:07] [CRITICAL] 
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+  ⚠️  SECURITY ALERT – UNAUTHORIZED FACE DETECTED
+  Name     : UNKNOWN
+  Timestamp: 2026-03-29 17:57:07
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+[2026-03-29 17:57:07] [ERROR] ENTRY | name='UNKNOWN'                      role=None         status=UNAUTHORIZED
+[2026-03-29 17:57:10] [CRITICAL] 
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+  ⚠️  SECURITY ALERT – UNAUTHORIZED FACE DETECTED
+  Name     : UNKNOWN
+  Timestamp: 2026-03-29 17:57:10
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+[2026-03-29 17:57:10] [ERROR] ENTRY | name='UNKNOWN'                      role=None         status=UNAUTHORIZED
+[2026-04-23 20:52:26] [INFO] ENTRY | name='Col. GurnoorSingh'            role=Officer      status=ALLOWED
+[2026-04-23 20:53:02] [CRITICAL] 
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+  ⚠️  SECURITY ALERT – UNAUTHORIZED FACE DETECTED
+  Name     : UNKNOWN
+  Timestamp: 2026-04-23 20:53:02
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+[2026-04-23 20:53:03] [ERROR] ENTRY | name='UNKNOWN'                      role=None         status=UNAUTHORIZED
+[2026-04-23 20:53:05] [CRITICAL] 
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+  ⚠️  SECURITY ALERT – UNAUTHORIZED FACE DETECTED
+  Name     : UNKNOWN
+  Timestamp: 2026-04-23 20:53:05
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+[2026-04-23 20:53:05] [ERROR] ENTRY | name='UNKNOWN'                      role=None         status=UNAUTHORIZED
+[2026-04-23 20:53:09] [CRITICAL] 
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+  ⚠️  SECURITY ALERT – UNAUTHORIZED FACE DETECTED
+  Name     : UNKNOWN
+  Timestamp: 2026-04-23 20:53:09
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+[2026-04-23 20:53:09] [ERROR] ENTRY | name='UNKNOWN'                      role=None         status=UNAUTHORIZED
+[2026-04-23 20:53:13] [CRITICAL] 
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+  ⚠️  SECURITY ALERT – UNAUTHORIZED FACE DETECTED
+  Name     : UNKNOWN
+  Timestamp: 2026-04-23 20:53:13
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+[2026-04-23 20:53:13] [ERROR] ENTRY | name='UNKNOWN'                      role=None         status=UNAUTHORIZED
+[2026-04-23 20:53:18] [INFO] ENTRY | name='Col. GurnoorSingh'            role=Officer      status=ALLOWED
+[2026-04-23 20:53:21] [INFO] ENTRY | name='Col. GurnoorSingh'            role=Officer      status=ALLOWED
+[2026-04-23 20:53:25] [INFO] ENTRY | name='Col. GurnoorSingh'            role=Officer      status=ALLOWED
+[2026-04-23 20:53:29] [INFO] ENTRY | name='Col. GurnoorSingh'            role=Officer      status=ALLOWED
+[2026-04-23 20:53:33] [INFO] ENTRY | name='Col. GurnoorSingh'            role=Officer      status=ALLOWED
+[2026-04-23 20:53:37] [INFO] ENTRY | name='Col. GurnoorSingh'            role=Officer      status=ALLOWED
+[2026-04-23 20:53:41] [INFO] ENTRY | name='Col. GurnoorSingh'            role=Officer      status=ALLOWED
+[2026-04-26 19:19:02] [CRITICAL] 
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+  ⚠️  SECURITY ALERT – UNAUTHORIZED FACE DETECTED
+  Name     : UNKNOWN
+  Timestamp: 2026-04-26 19:19:02
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+[2026-04-26 19:19:02] [ERROR] ENTRY | name='UNKNOWN'                      role=None         status=UNAUTHORIZED
+[2026-04-26 19:19:07] [CRITICAL] 
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+  ⚠️  SECURITY ALERT – UNAUTHORIZED FACE DETECTED
+  Name     : UNKNOWN
+  Timestamp: 2026-04-26 19:19:07
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+[2026-04-26 19:19:07] [ERROR] ENTRY | name='UNKNOWN'                      role=None         status=UNAUTHORIZED
+[2026-04-26 19:19:09] [CRITICAL] 
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+  ⚠️  SECURITY ALERT – UNAUTHORIZED FACE DETECTED
+  Name     : UNKNOWN
+  Timestamp: 2026-04-26 19:19:09
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+[2026-04-26 19:19:09] [ERROR] ENTRY | name='UNKNOWN'                      role=None         status=UNAUTHORIZED
+[2026-04-26 19:19:11] [CRITICAL] 
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+  ⚠️  SECURITY ALERT – UNAUTHORIZED FACE DETECTED
+  Name     : UNKNOWN
+  Timestamp: 2026-04-26 19:19:11
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+[2026-04-26 19:19:11] [ERROR] ENTRY | name='UNKNOWN'                      role=None         status=UNAUTHORIZED
+[2026-04-26 19:19:13] [CRITICAL] 
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+  ⚠️  SECURITY ALERT – UNAUTHORIZED FACE DETECTED
+  Name     : UNKNOWN
+  Timestamp: 2026-04-26 19:19:13
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+[2026-04-26 19:19:13] [ERROR] ENTRY | name='UNKNOWN'                      role=None         status=UNAUTHORIZED
+[2026-04-26 19:19:15] [CRITICAL] 
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+  ⚠️  SECURITY ALERT – UNAUTHORIZED FACE DETECTED
+  Name     : UNKNOWN
+  Timestamp: 2026-04-26 19:19:15
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+[2026-04-26 19:19:15] [ERROR] ENTRY | name='UNKNOWN'                      role=None         status=UNAUTHORIZED
+[2026-04-26 19:19:17] [CRITICAL] 
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+  ⚠️  SECURITY ALERT – UNAUTHORIZED FACE DETECTED
+  Name     : UNKNOWN
+  Timestamp: 2026-04-26 19:19:17
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+[2026-04-26 19:19:17] [ERROR] ENTRY | name='UNKNOWN'                      role=None         status=UNAUTHORIZED
+[2026-04-26 19:19:19] [CRITICAL] 
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+  ⚠️  SECURITY ALERT – UNAUTHORIZED FACE DETECTED
+  Name     : UNKNOWN
+  Timestamp: 2026-04-26 19:19:19
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+[2026-04-26 19:19:20] [ERROR] ENTRY | name='UNKNOWN'                      role=None         status=UNAUTHORIZED
+[2026-04-26 19:19:23] [CRITICAL] 
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+  ⚠️  SECURITY ALERT – UNAUTHORIZED FACE DETECTED
+  Name     : UNKNOWN
+  Timestamp: 2026-04-26 19:19:23
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+[2026-04-26 19:19:23] [ERROR] ENTRY | name='UNKNOWN'                      role=None         status=UNAUTHORIZED
+[2026-04-26 19:19:32] [CRITICAL] 
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+  ⚠️  SECURITY ALERT – UNAUTHORIZED FACE DETECTED
+  Name     : UNKNOWN
+  Timestamp: 2026-04-26 19:19:32
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+[2026-04-26 19:19:32] [ERROR] ENTRY | name='UNKNOWN'                      role=None         status=UNAUTHORIZED
+[2026-04-26 19:19:36] [INFO] ENTRY | name='Col. GurnoorSingh'            role=Officer      status=ALLOWED
+[2026-04-26 19:20:03] [CRITICAL] 
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+  ⚠️  SECURITY ALERT – UNAUTHORIZED FACE DETECTED
+  Name     : UNKNOWN
+  Timestamp: 2026-04-26 19:20:03
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+[2026-04-26 19:20:03] [ERROR] ENTRY | name='UNKNOWN'                      role=None         status=UNAUTHORIZED
+[2026-04-26 19:20:14] [CRITICAL] 
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+  ⚠️  SECURITY ALERT – UNAUTHORIZED FACE DETECTED
+  Name     : UNKNOWN
+  Timestamp: 2026-04-26 19:20:14
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+[2026-04-26 19:20:14] [ERROR] ENTRY | name='UNKNOWN'                      role=None         status=UNAUTHORIZED
+[2026-04-26 19:20:16] [CRITICAL] 
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+  ⚠️  SECURITY ALERT – UNAUTHORIZED FACE DETECTED
+  Name     : UNKNOWN
+  Timestamp: 2026-04-26 19:20:16
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+[2026-04-26 19:20:16] [ERROR] ENTRY | name='UNKNOWN'                      role=None         status=UNAUTHORIZED
+[2026-04-26 19:20:18] [CRITICAL] 
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+  ⚠️  SECURITY ALERT – UNAUTHORIZED FACE DETECTED
+  Name     : UNKNOWN
+  Timestamp: 2026-04-26 19:20:18
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+[2026-04-26 19:20:18] [ERROR] ENTRY | name='UNKNOWN'                      role=None         status=UNAUTHORIZED
+[2026-04-26 19:20:20] [CRITICAL] 
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+  ⚠️  SECURITY ALERT – UNAUTHORIZED FACE DETECTED
+  Name     : UNKNOWN
+  Timestamp: 2026-04-26 19:20:20
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+[2026-04-26 19:20:20] [ERROR] ENTRY | name='UNKNOWN'                      role=None         status=UNAUTHORIZED
+[2026-04-26 19:20:22] [CRITICAL] 
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+  ⚠️  SECURITY ALERT – UNAUTHORIZED FACE DETECTED
+  Name     : UNKNOWN
+  Timestamp: 2026-04-26 19:20:22
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+[2026-04-26 19:20:22] [ERROR] ENTRY | name='UNKNOWN'                      role=None         status=UNAUTHORIZED
+[2026-04-26 19:20:24] [CRITICAL] 
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+  ⚠️  SECURITY ALERT – UNAUTHORIZED FACE DETECTED
+  Name     : UNKNOWN
+  Timestamp: 2026-04-26 19:20:24
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+[2026-04-26 19:20:24] [ERROR] ENTRY | name='UNKNOWN'                      role=None         status=UNAUTHORIZED
+[2026-04-26 19:20:28] [CRITICAL] 
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+  ⚠️  SECURITY ALERT – UNAUTHORIZED FACE DETECTED
+  Name     : UNKNOWN
+  Timestamp: 2026-04-26 19:20:28
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+[2026-04-26 19:20:28] [ERROR] ENTRY | name='UNKNOWN'                      role=None         status=UNAUTHORIZED
+[2026-04-26 19:20:30] [CRITICAL] 
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+  ⚠️  SECURITY ALERT – UNAUTHORIZED FACE DETECTED
+  Name     : UNKNOWN
+  Timestamp: 2026-04-26 19:20:30
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+[2026-04-26 19:20:30] [ERROR] ENTRY | name='UNKNOWN'                      role=None         status=UNAUTHORIZED
+[2026-04-26 19:20:32] [CRITICAL] 
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+  ⚠️  SECURITY ALERT – UNAUTHORIZED FACE DETECTED
+  Name     : UNKNOWN
+  Timestamp: 2026-04-26 19:20:32
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+[2026-04-26 19:20:32] [ERROR] ENTRY | name='UNKNOWN'                      role=None         status=UNAUTHORIZED
+[2026-04-26 19:20:34] [CRITICAL] 
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+  ⚠️  SECURITY ALERT – UNAUTHORIZED FACE DETECTED
+  Name     : UNKNOWN
+  Timestamp: 2026-04-26 19:20:34
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+[2026-04-26 19:20:34] [ERROR] ENTRY | name='UNKNOWN'                      role=None         status=UNAUTHORIZED
+[2026-04-26 19:20:36] [CRITICAL] 
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+  ⚠️  SECURITY ALERT – UNAUTHORIZED FACE DETECTED
+  Name     : UNKNOWN
+  Timestamp: 2026-04-26 19:20:36
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+[2026-04-26 19:20:36] [ERROR] ENTRY | name='UNKNOWN'                      role=None         status=UNAUTHORIZED
+[2026-04-26 19:20:38] [CRITICAL] 
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+  ⚠️  SECURITY ALERT – UNAUTHORIZED FACE DETECTED
+  Name     : UNKNOWN
+  Timestamp: 2026-04-26 19:20:38
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+[2026-04-26 19:20:38] [ERROR] ENTRY | name='UNKNOWN'                      role=None         status=UNAUTHORIZED
+[2026-04-26 19:20:40] [CRITICAL] 
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+  ⚠️  SECURITY ALERT – UNAUTHORIZED FACE DETECTED
+  Name     : UNKNOWN
+  Timestamp: 2026-04-26 19:20:40
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+[2026-04-26 19:20:40] [ERROR] ENTRY | name='UNKNOWN'                      role=None         status=UNAUTHORIZED
+[2026-04-26 19:20:42] [CRITICAL] 
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+  ⚠️  SECURITY ALERT – UNAUTHORIZED FACE DETECTED
+  Name     : UNKNOWN
+  Timestamp: 2026-04-26 19:20:42
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+[2026-04-26 19:20:42] [ERROR] ENTRY | name='UNKNOWN'                      role=None         status=UNAUTHORIZED
+[2026-04-26 19:20:44] [CRITICAL] 
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+  ⚠️  SECURITY ALERT – UNAUTHORIZED FACE DETECTED
+  Name     : UNKNOWN
+  Timestamp: 2026-04-26 19:20:44
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+[2026-04-26 19:20:44] [ERROR] ENTRY | name='UNKNOWN'                      role=None         status=UNAUTHORIZED
+[2026-04-26 19:20:46] [CRITICAL] 
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+  ⚠️  SECURITY ALERT – UNAUTHORIZED FACE DETECTED
+  Name     : UNKNOWN
+  Timestamp: 2026-04-26 19:20:46
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+[2026-04-26 19:20:46] [ERROR] ENTRY | name='UNKNOWN'                      role=None         status=UNAUTHORIZED
+[2026-04-26 19:20:48] [CRITICAL] 
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+  ⚠️  SECURITY ALERT – UNAUTHORIZED FACE DETECTED
+  Name     : UNKNOWN
+  Timestamp: 2026-04-26 19:20:48
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+[2026-04-26 19:20:48] [ERROR] ENTRY | name='UNKNOWN'                      role=None         status=UNAUTHORIZED
+[2026-04-26 19:20:50] [CRITICAL] 
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+  ⚠️  SECURITY ALERT – UNAUTHORIZED FACE DETECTED
+  Name     : UNKNOWN
+  Timestamp: 2026-04-26 19:20:50
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+[2026-04-26 19:20:50] [ERROR] ENTRY | name='UNKNOWN'                      role=None         status=UNAUTHORIZED
